@@ -1,0 +1,150 @@
+{
+  "numTotalTestSuites": 11,
+  "numPassedTestSuites": 11,
+  "numFailedTestSuites": 0,
+  "numPendingTestSuites": 0,
+  "numTotalTests": 12,
+  "numPassedTests": 12,
+  "numFailedTests": 0,
+  "numPendingTests": 0,
+  "numTodoTests": 0,
+  "snapshot": {
+    "added": 0,
+    "failure": false,
+    "filesAdded": 0,
+    "filesRemoved": 0,
+    "filesRemovedList": [],
+    "filesUnmatched": 0,
+    "filesUpdated": 0,
+    "matched": 0,
+    "total": 0,
+    "unchecked": 0,
+    "uncheckedKeysByFile": [],
+    "unmatched": 0,
+    "updated": 0,
+    "didUpdate": false
+  },
+  "startTime": 1741557406810,
+  "success": true,
+  "testResults": [
+    {
+      "assertionResults": [
+        {
+          "ancestorTitles": ["JSON Placeholder posts"],
+          "fullName": "JSON Placeholder posts should return a positive result that is an array",
+          "status": "passed",
+          "title": "should return a positive result that is an array",
+          "duration": 3.276742000132799,
+          "failureMessages": [],
+          "meta": {}
+        },
+        {
+          "ancestorTitles": [],
+          "fullName": "Each item in the array should be an object.",
+          "status": "passed",
+          "title": "Each item in the array should be an object.",
+          "duration": 1.7688280008733273,
+          "failureMessages": [],
+          "meta": {}
+        },
+        {
+          "ancestorTitles": ["UserID Array Validation"],
+          "fullName": "UserID Array Validation Each item in the Array should be an object, through a for loop.",
+          "status": "passed",
+          "title": "Each item in the Array should be an object, through a for loop.",
+          "duration": 2.7214630022644997,
+          "failureMessages": [],
+          "meta": {}
+        },
+        {
+          "ancestorTitles": ["toTitleCase"],
+          "fullName": "toTitleCase any string put through the toTitleCase function should return a Titled Case String.",
+          "status": "passed",
+          "title": "any string put through the toTitleCase function should return a Titled Case String.",
+          "duration": 0.5297079980373383,
+          "failureMessages": [],
+          "meta": {}
+        },
+        {
+          "ancestorTitles": ["Post Title Formatting"],
+          "fullName": "Post Title Formatting a post title, put through the toTitleCase function, should return a Titled Case String.",
+          "status": "passed",
+          "title": "a post title, put through the toTitleCase function, should return a Titled Case String.",
+          "duration": 1.0371729992330074,
+          "failureMessages": [],
+          "meta": {}
+        },
+        {
+          "ancestorTitles": ["User Data Validation"],
+          "fullName": "User Data Validation individual item should not be an array",
+          "status": "passed",
+          "title": "individual item should not be an array",
+          "duration": 1.1728729978203773,
+          "failureMessages": [],
+          "meta": {}
+        },
+        {
+          "ancestorTitles": ["UserID array validation"],
+          "fullName": "UserID array validation checks that each userID, in each item, should be a number",
+          "status": "passed",
+          "title": "checks that each userID, in each item, should be a number",
+          "duration": 1.1595299988985062,
+          "failureMessages": [],
+          "meta": {}
+        },
+        {
+          "ancestorTitles": ["getUserNameByID"],
+          "fullName": "getUserNameByID returns the correct username matched from the userID in an array",
+          "status": "passed",
+          "title": "returns the correct username matched from the userID in an array",
+          "duration": 0.4755459986627102,
+          "failureMessages": [],
+          "meta": {}
+        },
+        {
+          "ancestorTitles": ["getUserNameByID Function"],
+          "fullName": "getUserNameByID Function returns the correct username for a given userID",
+          "status": "passed",
+          "title": "returns the correct username for a given userID",
+          "duration": 1.020677000284195,
+          "failureMessages": [],
+          "meta": {}
+        },
+        {
+          "ancestorTitles": ["getUserNameByID Function"],
+          "fullName": "getUserNameByID Function returns undefined for a non-existent userID",
+          "status": "passed",
+          "title": "returns undefined for a non-existent userID",
+          "duration": 10.632351998239756,
+          "failureMessages": [],
+          "meta": {}
+        },
+        {
+          "ancestorTitles": ["testing for first and last user"],
+          "fullName": "testing for first and last user return accurate first and last userNames from array",
+          "status": "passed",
+          "title": "return accurate first and last userNames from array",
+          "duration": 0.6120110005140305,
+          "failureMessages": [],
+          "meta": {}
+        },
+        {
+          "ancestorTitles": [
+            "testing performance with a large array of userIDs"
+          ],
+          "fullName": "testing performance with a large array of userIDs handles large arrays",
+          "status": "passed",
+          "title": "handles large arrays",
+          "duration": 144.45139100030065,
+          "failureMessages": [],
+          "meta": {}
+        }
+      ],
+      "startTime": 1741557408067,
+      "endTime": 1741557408238.4514,
+      "status": "passed",
+      "message": "",
+      "name": "/home/joy/project/week-05-assignment/app.test.js"
+    }
+  ]
+}
